@@ -26,6 +26,3 @@
 <div class="projects">
     <h3><a href="http://fmmp.toby.uk.eu.org/">Find My MP</a> - A simple flask site to find a MP from a postcode and gather related news.</h3>
 </div>
-<!-- Simple Analytics Script -->
-<script async defer src="https://api.tobynott.com/latest.js"></script>
-<noscript><img src="https://api.tobynott.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>

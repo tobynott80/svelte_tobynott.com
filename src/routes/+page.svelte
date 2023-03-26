@@ -11,10 +11,6 @@
   <a href="https://github.com/tobynott80">Github</a>
   <p>/</p>
   <a href="https://gitlab.com/tobynott80">GitLab</a>
-  <p>/</p>
-  <a href="eth.html">ETH</a>
-  <p>/</p>
-  <a href="btc.html">BTC</a>
 </div>
 <aside>
   <p>Applied Software Engineering Undergrad @ Cardiff University</p>

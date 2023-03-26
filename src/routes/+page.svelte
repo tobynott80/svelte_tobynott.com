@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Toby Nott</title>
+</svelte:head>
+
 <header>
   <h1>Toby Nott</h1>
 </header>

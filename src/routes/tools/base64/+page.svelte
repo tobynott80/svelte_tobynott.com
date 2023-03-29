@@ -41,6 +41,8 @@
 
 <h1>Toby's Base64 Encoder/Decoder</h1>
 
+<hr class="dashed" style="padding: 0%;"/>
+
 <form class="form">
   <div class="container col">
     <div class="block">
@@ -59,6 +61,8 @@
     <button type="button" on:click={decode}>Decode</button>
   </div>
 </form>
+
+<hr class="dashed" />
 
 <h3><a href="/">Toby Nott</a> / <a href="/tools">Tools</a> / <a href="/tools/base64">Base64</a></h3>
 
@@ -83,7 +87,7 @@
 
   .container {
     display: flex;
-    margin: 15px;
+    
     justify-content: center;
   }
 

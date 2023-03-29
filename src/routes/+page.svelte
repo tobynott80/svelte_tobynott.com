@@ -28,7 +28,7 @@
     find a MP from a postcode and gather related news.
   </h3>
   <h3>
-    <a href="tools/">Tools</a> - A selection of simple tools built with Svelte and JavaScript.
+    <a href="tools/">Tools</a> - A selection of simple tools built with Svelte and JavaScript (Work in Progress).
   </h3>
 </div>
 

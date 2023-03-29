@@ -23,8 +23,7 @@
   ensuring <a href="https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb">good practice</a>. 
 </p>
 <p><a href="https://github.com/tobynott80/svelte_tobynott.com/blob/dev/src/routes/tools/passgen/%2Bpage.svelte">Source</a></p>
-<p></p>
-<a href="/">&lt-- Back</a>
+<h3><a href="/">Toby Nott</a> / <a href="/tools">Tools</a></h3>
 <style>
     p{
         margin-left: 10%;
@@ -34,5 +33,8 @@
 
     h2{
         color: #FFF0D6;
+    }
+    h3{
+      margin: 10px;
     }
 </style>

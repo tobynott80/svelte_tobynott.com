@@ -60,6 +60,8 @@
   </div>
 </form>
 
+<h3><a href="/">Toby Nott</a> / <a href="/tools">Tools</a> / <a href="/tools/base64">Base64</a></h3>
+
 <style>
   button {
     color: black;

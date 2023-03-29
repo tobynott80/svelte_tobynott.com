@@ -6,7 +6,7 @@
 
 <p>
   A selection of simple tools built with <a href="https://svelte.dev/">Svelte</a
-  > with native JavaScript
+  > with native JavaScript. Free and Open Source.
 </p>
 
 <hr class="dashed" />

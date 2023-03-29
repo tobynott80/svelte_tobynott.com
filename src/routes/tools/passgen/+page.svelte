@@ -76,6 +76,8 @@
 
 <h1>Toby's Password Generator</h1>
 
+<p>All passwords are randomised and generated client-side</p>
+
 <hr class="dashed" />
 
 <input type="text" id="password" readonly bind:value={password} />

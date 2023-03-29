@@ -76,6 +76,8 @@
 
 <h1>Toby's Password Generator</h1>
 
+<hr class="dashed" />
+
 <input type="text" id="password" readonly bind:value={password} />
 
 <form class="form">
@@ -108,6 +110,11 @@
     >Copy Password</button
   >
 </div>
+
+<hr class="dashed" />
+
+<h3><a href="/">Toby Nott</a> / <a href="/tools">Tools</a> / <a href="/tools/passgen">Password Generator</a></h3>
+
 
 <style>
   .form {
@@ -143,5 +150,8 @@
     display: inline-block;
     width: 0px;
     text-align: right;
+  }
+  h1, h3{
+    margin: 10px;
   }
 </style>

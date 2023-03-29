@@ -5,7 +5,7 @@
 <h1>Tools</h1>
 
 <p>
-  A selection of simple tools build with <a href="https://svelte.dev/">Svelte</a
+  A selection of simple tools built with <a href="https://svelte.dev/">Svelte</a
   > with native JavaScript
 </p>
 
@@ -30,5 +30,9 @@
         margin-left: 10%;
         margin-right: 10%;
         text-align: center;
+    }
+
+    h2{
+        color: #FFF0D6;
     }
 </style>

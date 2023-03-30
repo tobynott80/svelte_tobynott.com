@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Toby Nott</title>
-  <meta property="description" content="Toby Nott. Software Engineer.">
+  <meta name="description" content="Toby Nott. Software Engineer.">
 </svelte:head>
 
 <header>

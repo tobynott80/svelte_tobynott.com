@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Toby Nott - Tools</title>
-  <meta property="description" content="Free tools provided by Toby Nott. Fast, Free and Open Source">
+  <meta name="description" content="Free tools provided by Toby Nott. Fast, Free and Open Source">
 
 </svelte:head>
 

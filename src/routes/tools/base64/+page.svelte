@@ -37,7 +37,7 @@
 
 <svelte:head>
   <title>Toby's Base64 Encoder/Decoder</title>
-  <meta property="og:description" content="Encode and Decode Base64. Fast and Free.">
+  <meta property="description" content="Encode and Decode Base64. Fast and Free.">
 
 </svelte:head>
 

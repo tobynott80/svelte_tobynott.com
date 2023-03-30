@@ -1,5 +1,7 @@
 <svelte:head>
   <title>Toby Nott - Tools</title>
+  <meta property="description" content="Free tools provided by Toby Nott. Fast, Free and Open Source">
+
 </svelte:head>
 
 <h1>Tools</h1>

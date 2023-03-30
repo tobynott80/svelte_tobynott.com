@@ -1,5 +1,6 @@
 <svelte:head>
   <title>Toby Nott</title>
+  <meta property="og:description" content="Toby Nott. Software Engineer.">
 </svelte:head>
 
 <header>

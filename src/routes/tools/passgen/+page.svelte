@@ -72,7 +72,7 @@
 
 <svelte:head>
   <title>Toby's Password Generator</title>
-  <meta property="og:description" content="Create a secure password using Toby's Password Generator. Help prevent a security threat by getting a strong, unique password">
+  <meta property="og:description" content="Create a secure password using Toby's Password Generator. Prevent security risks by using a strong, unique password">
 </svelte:head>
 
 <h1>Toby's Password Generator</h1>

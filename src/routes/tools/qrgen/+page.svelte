@@ -1,7 +1,6 @@
 <!--QR code generator-->
 <script>
-  import Page from "../../+page.svelte";
-
+    import UrlGenerator from "./urlGenerator.svelte";
 
 </script>
 
@@ -13,3 +12,7 @@
 <h1>Toby's QR Code Generator</h1>
 
 <p>Generate a QR code from a URL or Text</p>
+
+<hr class="dashed" />
+
+<UrlGenerator></UrlGenerator>

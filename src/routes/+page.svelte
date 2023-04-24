@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Toby Nott</title>
-  <meta name="description" content="Toby Nott. Software Engineer.">
+  <meta name="description" content="Toby Nott. Applied Software Engineer @ Cardiff University.">
 </svelte:head>
 
 <header>

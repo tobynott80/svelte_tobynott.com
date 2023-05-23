@@ -31,6 +31,9 @@
   <h3>
     <a href="tools/">Tools</a> - A selection of simple tools built with Svelte and JavaScript (Work in Progress).
   </h3>
+  <h3>
+    <a href="https://github.com/GrLdev/Rate-My-Student-Home">Rate My Student Home</a> - A website designed to let students rate their student homes in Cardiff (Work in Progress).
+  </h3>
 </div>
 
 <hr class="dashed" />

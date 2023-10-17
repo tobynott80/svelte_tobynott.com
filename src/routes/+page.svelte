@@ -1,6 +1,9 @@
 <svelte:head>
   <title>Toby Nott</title>
-  <meta name="description" content="Toby Nott. Applied Software Engineer @ Cardiff University.">
+  <meta
+    name="description"
+    content="Toby Nott. Applied Software Engineer @ Cardiff University."
+  />
 </svelte:head>
 
 <header>
@@ -29,21 +32,29 @@
     find a MP from a postcode and gather related news.
   </h3>
   <h3>
-    <a href="tools/">Tools</a> - A selection of simple tools built with Svelte and JavaScript (Work in Progress).
+    <a
+      href="https://install.appcenter.ms/users/tobynott/apps/mycommute/distribution_groups/test%20group"
+      >My Commute</a
+    > - A simple Android app to help you plan your commute.
   </h3>
   <h3>
-    <a href="https://github.com/GrLdev/Rate-My-Student-Home">Rate My Student Home</a> - A website designed to let students rate their student homes in Cardiff (Work in Progress).
+    <a href="https://github.com/GrLdev/Rate-My-Student-Home"
+      >Rate My Student Home</a
+    > - A website designed to let students rate their student homes in Cardiff (Work
+    in Progress).
   </h3>
   <h3>
-    <a href="https://install.appcenter.ms/users/tobynott/apps/mycommute/distribution_groups/test%20group">My Commute</a> - A simple Android app to help you plan your commute (Work in Progress).
+    <a href="tools/">Tools</a> - A selection of simple tools built with Svelte and
+    JavaScript.
   </h3>
 </div>
 
 <hr class="dashed" />
 
 <h3>Toby Nott - 2023</h3>
+
 <style>
-  h3{
+  h3 {
     margin-bottom: 10px;
   }
 </style>

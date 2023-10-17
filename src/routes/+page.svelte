@@ -10,15 +10,15 @@
   <h1>Toby Nott</h1>
 </header>
 <div id="pfp">
-  <img src="/pfp2.webp" alt="Toby Nott" width="200px" height="201px" />
+  <img src="/pfp3.jpg" alt="Toby Nott" width="200px" height="201px" />
 </div>
 
 <div class="links">
-  <a href="https://www.linkedin.com/in/tobiah-nott-380439140/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/tobiah-nott-380439140/" class="link">LinkedIn</a>
   <p>/</p>
-  <a href="https://github.com/tobynott80">Github</a>
+  <a href="https://github.com/tobynott80" class="link">Github</a>
   <p>/</p>
-  <a href="https://gitlab.com/tobynott80">GitLab</a>
+  <a href="https://gitlab.com/tobynott80" class="link">GitLab</a>
 </div>
 <aside>
   <p>Applied Software Engineering Undergrad @ Cardiff University</p>

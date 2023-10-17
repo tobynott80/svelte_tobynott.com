@@ -25,7 +25,7 @@
 <h2>Projects</h2>
 <div class="projects">
   <h3>
-    <a href="http://fmmp.toby.uk.eu.org/">Find My MP</a> - A simple flask site to
+    <a href="https://fmmp.toby.uk.eu.org/">Find My MP</a> - A simple flask site to
     find a MP from a postcode and gather related news.
   </h3>
   <h3>
@@ -33,6 +33,9 @@
   </h3>
   <h3>
     <a href="https://github.com/GrLdev/Rate-My-Student-Home">Rate My Student Home</a> - A website designed to let students rate their student homes in Cardiff (Work in Progress).
+  </h3>
+  <h3>
+    <a href="https://install.appcenter.ms/users/tobynott/apps/mycommute/distribution_groups/test%20group">My Commute</a> - A simple Android app to help you plan your commute (Work in Progress).
   </h3>
 </div>
 

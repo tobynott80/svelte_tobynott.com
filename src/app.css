@@ -16,6 +16,11 @@ p {
   justify-content: center;
 }
 
+.link {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 * {
   color: #ffefd3;
   font-family: "Courier New", Courier, monospace;

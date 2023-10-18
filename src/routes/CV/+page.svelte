@@ -4,4 +4,4 @@
 
 </svelte:head>
 <h1>Download CV</h1>
-<a href="/TobiahNottCV.pdf" target="_blank">Download PDF</a>
+<a href="https://github.com/tobynott80/svelte_tobynott.com/raw/master/static/TobiahNottCV.pdf" target="_blank">Download PDF</a>

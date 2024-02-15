@@ -14,7 +14,9 @@
 </div>
 
 <div class="links">
-  <a href="https://www.linkedin.com/in/tobiah-nott-380439140/" class="link">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/tobiah-nott-380439140/" class="link"
+    >LinkedIn</a
+  >
   <p>/</p>
   <a href="https://github.com/tobynott80" class="link">Github</a>
   <p>/</p>
@@ -27,6 +29,10 @@
 <hr class="dashed" />
 <h2>Projects</h2>
 <div class="projects">
+  <h3>
+    <a href="https://heatwise.live/">HeatWise</a> - A Next.js web app to visualise
+    spatial-temporal heat demand across England and Wales.
+  </h3>
   <h3>
     <a href="https://fmmp.toby.uk.eu.org/">Find My MP</a> - A simple flask site to
     find a MP from a postcode and gather related news.

@@ -37,8 +37,10 @@
 </script>
 
 <h1>Unix Epoch Converter</h1>
+<hr class="dashed" />
 <h2><u>Date → Epoch</u></h2>
 <h3>Convert a date time to a Unix timestamp</h3>
+
 <div>
   <label>
     Date Input:
@@ -64,8 +66,6 @@
     <input type="text" readonly value={OutputEpochValue} />
   </label>
 </div>
-
-<hr class="dashed" />
 
 <h2><u>Epoch → Date</u></h2>
 <h3>Convert a Unix timestamp to a date</h3>
@@ -114,5 +114,6 @@
   }
   h2 {
     font-size: 1em;
+    padding: 0px;
   }
 </style>

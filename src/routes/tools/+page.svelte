@@ -15,7 +15,7 @@
 
 <hr class="dashed" />
 
-<h2><a href="tools/base64">Base64 Encoder/Decoder</a></h2>
+<h2><a href="/tools/base64">Base64 Encoder/Decoder</a></h2>
 <p>A simple tool to decode and encode Base64 data.</p>
 <p>
   <a
@@ -24,7 +24,7 @@
   >
 </p>
 
-<h2><a href="tools/passgen">Password Generator</a></h2>
+<h2><a href="/tools/passgen">Password Generator</a></h2>
 <p>
   A random password generator with options for length, case and symbols,
   ensuring <a
@@ -39,7 +39,7 @@
   >
 </p>
 
-<h2><a href="tools/epoch">Unix Epoch Converter</a></h2>
+<h2><a href="/tools/epoch">Unix Epoch Converter</a></h2>
 <p>A simple tool to convert a date time to a Unix timestamp.</p>
 <p>
   <a

@@ -43,7 +43,16 @@
 <p>A simple tool to convert a date time to a Unix timestamp.</p>
 <p>
   <a
-    href="https://github.com/tobynott80/svelte_tobynott.com/blob/dev/src/routes/tools/passgen/%2Bpage.svelte"
+    href="https://github.com/tobynott80/svelte_tobynott.com/blob/master/src/routes/tools/epoch/%2Bpage.svelte"
+    >Source</a
+  >
+</p>
+
+<h2><a href="/tools/qrgen">QR Code Generator</a></h2>
+<p>A basic QR code generator for URLs.</p>
+<p>
+  <a
+    href="https://github.com/tobynott80/svelte_tobynott.com/blob/dev/src/routes/tools/qrgen/%2Bpage.svelte"
     >Source</a
   >
 </p>

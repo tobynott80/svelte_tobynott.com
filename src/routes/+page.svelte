@@ -34,10 +34,6 @@
     spatial-temporal heat demand across England and Wales.
   </h3>
   <h3>
-    <a href="https://fmmp.toby.uk.eu.org/">Find My MP</a> - A simple flask site to
-    find a MP from a postcode and gather related news.
-  </h3>
-  <h3>
     <a
       href="https://install.appcenter.ms/users/tobynott/apps/mycommute/distribution_groups/test%20group"
       >My Commute</a

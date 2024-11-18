@@ -23,7 +23,7 @@
   <a href="https://gitlab.com/tobynott80" class="link">GitLab</a>
 </div>
 <aside>
-  <p>Applied Software Engineering Undergrad @ Cardiff University</p>
+  <p>Bridging the gap between protected data and valuable insights @ <a href="https://pontiro.com/">Pontiro</a></p>
 </aside>
 
 <hr class="dashed" />

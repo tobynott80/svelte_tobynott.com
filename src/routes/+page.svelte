@@ -30,7 +30,7 @@
 <h2>Projects</h2>
 <div class="projects">
   <h3>
-    <a href="https://heatwise.live/">HeatWise</a> - A Next.js web app to visualise
+    <a href="https://heatwise.tobynott.com/">HeatWise</a> - A Next.js web app to visualise
     spatial-temporal heat demand across England and Wales.
   </h3>
   <h3>

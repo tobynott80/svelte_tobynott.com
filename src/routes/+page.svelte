@@ -22,9 +22,9 @@
   <p>/</p>
   <a href="https://gitlab.com/tobynott80" class="link">GitLab</a>
 </div>
-<aside>
+<!-- <aside>
   <p>Bridging the gap between protected data and valuable insights @ <a href="https://pontiro.com/">Pontiro</a></p>
-</aside>
+</aside> -->
 
 <hr class="dashed" />
 <h2>Projects</h2>
